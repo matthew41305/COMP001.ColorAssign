@@ -1,0 +1,199 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: darkslategrey;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 0;
+}
+
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+
+header p {
+    font-size: 1.2em;
+}
+
+
+/* Main */
+main {
+    max-width: 800px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Sections */
+section {
+    margin-bottom: 30px;
+}
+
+
+/* Product Description */
+#product-description {
+    text-align: center;
+}
+
+
+#product-description h2 {
+    font-size: 1.8em;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+
+#product-description p {
+    font-size: 1.1em;
+}
+
+
+/* Features */
+#features ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: left;
+}
+
+
+#features li {
+    margin-bottom: 10px;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+
+/* Product Image */
+#product-image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+#product-image img {
+    width: auto;
+    max-width: 100%;
+    height: 600px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Call to Action */
+#cta {
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+#cta h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+
+#cta p {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+
+#cta button {
+    background-color: #ffcc00;
+    color: #333;
+    border: none;
+    padding: 15px 25px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+#cta button:hover {
+    background-color: #ff9900;
+}
+
+
+/* Testimonials */
+#testimonials {
+    text-align: center;
+    font-style: italic;
+}
+
+
+#testimonials h2 {
+    font-size: 1.8em;
+    color: orange;
+    margin-bottom: 15px;
+}
+
+
+#testimonials blockquote {
+    background-color: #f1f1f1;
+    border-left: 5px solid orange;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+    color: #555;
+}
+
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #666;
+}
+
+
+footer p {
+    margin: 5px 0;
+}
+
+
+footer a {
+    color: orange;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+
+footer a:hover {
+    color: orange;
+}
+
+
+

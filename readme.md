@@ -1,0 +1,5 @@
+Author: Matthew Hudson
+Purpose: Code for creating page similar to other wepages that sell a product
+Links to several different inspirations:
+https://parfumvoiture.com/products/pa?ttclid=E_C_P_CsoBsJMwjBCra2w6we3KvN7qqUyQbM7AILpA2dv7wffaTeZHo6sRuOfw7a2HZrwOm0oGvRglOOk__scFsPAe0pr4qfK4aniWI1gQgSv5hA8Etnu-tfOXmkUbDQJYY-8XX2HHPvXhOi0CS4oZOz7yoQJKKYJX917uk5ORQlEgzwmxeUqhKjcytffqZ5Us2xdCOxjZwiqPjnivsU2p46gF1kW4090vt_OX0ulxgUkqX-jML7SUXdl3kwd6A_cSpzfCfdghVD75lkPyjKg0aBIEdjIuMBogHAYUdDbB8D8O2sJIM4fnGksGutf2rmG-DjLsNcI3Vl8
+https://solasoft.myshopify.com/
